@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "openai-quickstart-node",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^13.2.4",
+    "openai": "^3.1.0",
+    "pdfjs-dist": "^3.4.120",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "engines": {
+    "node": ">=14.6.0"
+  },
+  "description": "This is an example pet name generator app used in the OpenAI API [quickstart tutorial](https://platform.openai.com/docs/quickstart). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.",
+  "main": "test.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
